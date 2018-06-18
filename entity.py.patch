@@ -1,0 +1,4 @@
+31c31
+<             raise ValueError("non-OK return on response")
+---
+>             return {}
